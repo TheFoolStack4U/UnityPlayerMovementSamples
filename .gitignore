@@ -71,3 +71,21 @@ crashlytics-build.properties
 # Temporary auto-generated Android Assets
 /[Aa]ssets/[Ss]treamingAssets/aa.meta
 /[Aa]ssets/[Ss]treamingAssets/aa/*
+
+# Visual Studio
+*.csproj
+*.sln
+*.suo
+*.tmp
+*.user
+*.vcxproj
+*.sqlite
+
+# JetBrains Rider
+.idea/
+*.idea
+
+# Visual Studio Code
+.vscode/
+
+Tests/LIN/Cheat**
